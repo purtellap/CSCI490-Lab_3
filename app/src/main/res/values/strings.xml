@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ListViewDemo</string>
+
+    <string name="a">ASTR 231</string>
+    <string name="b">CSCI 306</string>
+    <string name="c">EASY 210</string>
+    <string name="d">COOL 490</string>
+    <string name="e">LAME 115</string>
+    <string-array name="classes">
+        <item name="class1">@string/a</item>
+        <item name="class2">@string/b</item>
+        <item name="class3">@string/c</item>
+        <item name="class4">@string/d</item>
+        <item name="class5">@string/e</item>
+    </string-array>
+
+</resources>
